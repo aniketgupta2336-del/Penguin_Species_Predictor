@@ -1,0 +1,5 @@
+- pyhton
+- streamlit
+- seaborn
+- pandas 
+- numpy
